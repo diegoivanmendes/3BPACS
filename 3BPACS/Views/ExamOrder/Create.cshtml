@@ -1,22 +1,42 @@
 ﻿@model _3BPACS.Common.ViewModels.ExamOrderViewModel
 
+@{
+    ViewData["Title"] = "Criar Pedido de Exame";
+}
 
-<div class="card">
-    <div class="card-body">
-        <h5 class="card-title">Create Exam Order</h5>
+<div class="pagetitle">
+    <h1>@ViewData["Title"]</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="index.html">@ViewData["Title"]</a></li>
+            <li class="breadcrumb-item">Forms</li>
+            <li class="breadcrumb-item active">Layouts</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
 
-        <form asp-action="Create" class="row g-3">
-            <div class="col-md-6">
-                <label asp-for="PatientName" class="form-label"></label>
-                <input asp-for="PatientName" type="text" class="form-control" id="PatientName" name="PatientName" required />
+<section class="section">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Create Exam Order</h5>
+
+                    <form asp-action="Create" class="row g-3">
+                        <div class="col-md-6">
+                            <label asp-for="PatientName" class="form-label"></label>
+                            <input asp-for="PatientName" type="text" class="form-control" id="PatientName" name="PatientName" required />
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="ExamType" class="form-label"></label>
+                            <input asp-for="ExamType" type="text" class="form-control" id="ExamType" name="ExamType" required />
+                        </div>
+                        <div class="col-md-12">
+                            <button type="submit" class="btn btn-primary">Create Exam Order</button>
+                        </div>
+                    </form>
+                </div>
             </div>
-            <div class="col-md-6">
-                <label asp-for="ExamType" class="form-label"></label>
-                <input asp-for="ExamType" type="text" class="form-control" id="ExamType" name="ExamType" required />
-            </div>
-            <div class="col-md-12">
-                <button type="submit" class="btn btn-primary">Create Exam Order</button>
-            </div>
-        </form>
+        </div>
     </div>
-</div>
+</section>

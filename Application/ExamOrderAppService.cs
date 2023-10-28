@@ -22,6 +22,12 @@ namespace _3BPACS.Application
             return _examOrderDomainService.CreateExamOrder(examOrderDto);
         }
 
+        public List<ExamOrderViewModel> GetAllExamOrders()
+        {
+            var examOrderDtos = _examOrderDomainService.GetAllExamOrders();
+            return _mapper.Map<List<ExamOrderViewModel>>(examOrderDtos);
+        }
+
     }
 
 }

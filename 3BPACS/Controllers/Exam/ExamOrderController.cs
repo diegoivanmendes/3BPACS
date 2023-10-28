@@ -24,20 +24,19 @@ namespace _3BPACS.Controllers.Exame
         public IActionResult Create(ExamOrderViewModel examOrderViewModel)
         {
             var examOrderDto = _examOrderAppService.CreateExamOrder(examOrderViewModel);
-            return RedirectToAction("Details", new { id = examOrderDto.Id });
+            return RedirectToAction("Index", new { id = examOrderDto.Id });
         }
 
         public IActionResult Details(int id)
         {
-            // Implementar a lógica para obter detalhes do pedido de exame
-            List<examOrderDto> examOrders = _examOrderAppService 
-
             return View();
         }
 
         public IActionResult Index()
         {
-            return View();
+            // Implementar a lógica para obter detalhes do pedido de exame
+            List<ExamOrderViewModel> examOrdersViewModel = _examOrderAppService.GetAllExamOrders();
+            return View(examOrdersViewModel);
         }
     }
 }

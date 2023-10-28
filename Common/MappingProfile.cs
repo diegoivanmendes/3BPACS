@@ -14,7 +14,9 @@ namespace _3BPACS.Common
         public MappingProfile()
         {
             CreateMap<ExamOrderViewModel, ExamOrderDto>();
-            // ... (outros mapeamentos)
+            // Mapeamento inverso
+            CreateMap<ExamOrderDto, ExamOrderViewModel>();
+
         }
     }
 

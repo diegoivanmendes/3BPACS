@@ -35,6 +35,12 @@ namespace _3BPACS.Domain.Services
             }
         }
 
+        public List<ExamOrderDto> GetAllExamOrders()
+        {
+            var examOrders = _examOrderRepository.GetAllAsync().Result;
+            return examOrders.Select(eo => new ExamOrderDto { Id = eo.Id, PatientName = eo.PatientName, ExamType = eo.ExamType }).ToList();
+        }
+
 
     }
 

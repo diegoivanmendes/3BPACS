@@ -1,14 +1,51 @@
-﻿@model _3BPACS.Common.ViewModels.ExamOrderViewModel
+﻿@model List<_3BPACS.Common.ViewModels.ExamOrderViewModel>
 
-<form asp-action="Create">
-    <div>
-        <label for="PatientName">Patient Name</label>
-        <input asp-for="PatientName" type="text" id="PatientName" name="PatientName" required />
-    </div>
-    <div>
-        <label for="ExamType">Exam Type</label>
-        <input asp-for="ExamType" type="text" id="ExamType" name="ExamType" required />
-    </div>
-    <button type="submit">Create Exam Order</button>
+@{
+    ViewData["Title"] = "Listar Pedidos";
+}
 
-</form>
+<div class="pagetitle">
+    <h1>@ViewData["Title"]</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="index.html">@ViewData["Title"]</a></li>
+            <li class="breadcrumb-item">Forms</li>
+            <li class="breadcrumb-item active">Layouts</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<section class="section">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Lista de Pedidos de Exames</h5>
+
+                    <!-- Table with stripped rows -->
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">Nome do Paciente</th>
+                                <th scope="col">Tipo de Exame</th>
+                                <!-- ... (outros cabeçalhos de coluna conforme necessário) -->
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var examOrder in Model)
+                            {
+                                <tr>
+                                    <td>@examOrder.PatientName</td>
+                                    <td>@examOrder.ExamType</td>
+                                    <!-- ... (outras células de dados conforme necessário) -->
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <!-- End Table with stripped rows -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
