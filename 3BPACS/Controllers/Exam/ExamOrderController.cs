@@ -30,6 +30,8 @@ namespace _3BPACS.Controllers.Exame
         public IActionResult Details(int id)
         {
             // Implementar a lógica para obter detalhes do pedido de exame
+            List<examOrderDto> examOrders = _examOrderAppService 
+
             return View();
         }
 
