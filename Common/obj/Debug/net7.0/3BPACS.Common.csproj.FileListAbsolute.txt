@@ -1,0 +1,12 @@
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.deps.json
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.dll
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.pdb
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.csproj.AssemblyReference.cache
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.AssemblyInfoInputs.cache
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.AssemblyInfo.cs
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.csproj.CoreCompileInputs.cache
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.dll
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\refint\3BPACS.Common.dll
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.pdb
+C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\ref\3BPACS.Common.dll

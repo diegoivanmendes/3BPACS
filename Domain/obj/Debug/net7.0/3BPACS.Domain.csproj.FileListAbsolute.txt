@@ -1,0 +1,15 @@
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Domain.deps.json
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Domain.dll
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Domain.pdb
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Common.dll
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Common.pdb
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.csproj.AssemblyReference.cache
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.AssemblyInfoInputs.cache
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.AssemblyInfo.cs
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.csproj.CopyComplete
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.dll
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\refint\3BPACS.Domain.dll
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.pdb
+C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\ref\3BPACS.Domain.dll

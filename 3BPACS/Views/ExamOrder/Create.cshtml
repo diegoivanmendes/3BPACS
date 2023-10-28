@@ -1,0 +1,22 @@
+﻿@model _3BPACS.Common.ViewModels.ExamOrderViewModel
+
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Create Exam Order</h5>
+
+        <form asp-action="Create" class="row g-3">
+            <div class="col-md-6">
+                <label asp-for="PatientName" class="form-label"></label>
+                <input asp-for="PatientName" type="text" class="form-control" id="PatientName" name="PatientName" required />
+            </div>
+            <div class="col-md-6">
+                <label asp-for="ExamType" class="form-label"></label>
+                <input asp-for="ExamType" type="text" class="form-control" id="ExamType" name="ExamType" required />
+            </div>
+            <div class="col-md-12">
+                <button type="submit" class="btn btn-primary">Create Exam Order</button>
+            </div>
+        </form>
+    </div>
+</div>
