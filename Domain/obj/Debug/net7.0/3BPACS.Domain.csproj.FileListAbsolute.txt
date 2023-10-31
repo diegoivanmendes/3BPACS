@@ -13,6 +13,7 @@ C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domai
 C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\refint\3BPACS.Domain.dll
 C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.pdb
 C:\Users\diego.oliveira\source\repos\3BPACS\Domain\obj\Debug\net7.0\ref\3BPACS.Domain.dll
+<<<<<<< HEAD
 D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Domain.deps.json
 D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Domain.dll
 D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Domain.pdb
@@ -28,3 +29,20 @@ D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Domain\obj\Debug\net7.0\3BPA
 D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Domain\obj\Debug\net7.0\refint\3BPACS.Domain.dll
 D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.pdb
 D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Domain\obj\Debug\net7.0\ref\3BPACS.Domain.dll
+=======
+D:\fiap\tech-challenge\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Domain.deps.json
+D:\fiap\tech-challenge\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Domain.dll
+D:\fiap\tech-challenge\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Domain.pdb
+D:\fiap\tech-challenge\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Common.dll
+D:\fiap\tech-challenge\3BPACS\Domain\bin\Debug\net7.0\3BPACS.Common.pdb
+D:\fiap\tech-challenge\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.csproj.AssemblyReference.cache
+D:\fiap\tech-challenge\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\fiap\tech-challenge\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.AssemblyInfoInputs.cache
+D:\fiap\tech-challenge\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.AssemblyInfo.cs
+D:\fiap\tech-challenge\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.csproj.CoreCompileInputs.cache
+D:\fiap\tech-challenge\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.csproj.CopyComplete
+D:\fiap\tech-challenge\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.dll
+D:\fiap\tech-challenge\3BPACS\Domain\obj\Debug\net7.0\refint\3BPACS.Domain.dll
+D:\fiap\tech-challenge\3BPACS\Domain\obj\Debug\net7.0\3BPACS.Domain.pdb
+D:\fiap\tech-challenge\3BPACS\Domain\obj\Debug\net7.0\ref\3BPACS.Domain.dll
+>>>>>>> 3d479ee2208395352e4a8be61f0a94fdcb5cf639
