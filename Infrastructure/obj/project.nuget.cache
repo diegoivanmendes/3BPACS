@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XWNuienScFAkw8WAYmZhKvMXoIGKVq/kSDXwKKLGxpXKXJjp3Azjr2aeANR/TVuvWs9cwSO9/SICViT7LsohMg==",
+  "dgSpecHash": "Jtr9mjKTCNzSty8vODHF1dL4i2LKe0oeJ/GgII3EYjLTvasLmPeCOaClLF9F0ZgkIYeeaCdTu03z3ycHe9Y95A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\infrastructure\\3BPACS.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego.oliveira\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\diego.oliveira\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

@@ -3249,11 +3249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\infrastructure\\3BPACS.Infrastructure.csproj",
       "projectName": "3BPACS.Infrastructure",
-      "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\infrastructure\\3BPACS.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\diego.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3275,8 +3275,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Domain\\3BPACS.Domain.csproj": {
-              "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Domain\\3BPACS.Domain.csproj"
+            "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\3BPACS.Domain.csproj": {
+              "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\3BPACS.Domain.csproj"
             }
           }
         }

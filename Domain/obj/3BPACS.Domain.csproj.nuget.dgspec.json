@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Domain\\3BPACS.Domain.csproj": {}
+    "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\3BPACS.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Common\\3BPACS.Common.csproj": {
+    "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Common\\3BPACS.Common.csproj",
+        "projectUniqueName": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj",
         "projectName": "3BPACS.Common",
-        "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Common\\3BPACS.Common.csproj",
+        "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj",
         "packagesPath": "C:\\Users\\diego.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Common\\obj\\",
+        "outputPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Domain\\3BPACS.Domain.csproj": {
+    "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\3BPACS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Domain\\3BPACS.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\3BPACS.Domain.csproj",
         "projectName": "3BPACS.Domain",
-        "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Domain\\3BPACS.Domain.csproj",
+        "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\3BPACS.Domain.csproj",
         "packagesPath": "C:\\Users\\diego.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -99,8 +99,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Common\\3BPACS.Common.csproj": {
-                "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Common\\3BPACS.Common.csproj"
+              "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj": {
+                "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj"
               }
             }
           }
