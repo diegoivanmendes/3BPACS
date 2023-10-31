@@ -10,35 +10,25 @@ Um sistema PACS (Picture Archiving and Communication System) é uma tecnologia u
 
 
 ## Repositories
-* SQL [link](./sqldump)
 * API Auth [link](./3BPACS.ApiAuth)
-* API [link](./3BPACS.Application)
-* Admin [link](./3BPACS.Interface)
+* ASP NET MVC [link](./3BPACS.Interface)
 
 
 ## Development 
 
 Para executar esses projetos você precisa seguir as etapas abaixo:
 
-* Criar a base de dados
 * Abrir a solution 3BPACS.sln com o visual studio 2022
+* Abri Package Manager Console e deixar como Defult project: 'Interface\3BPACS.Interface' e executar o comando Update-Database
+* Ainda no Package Manager Console e deixar como Defult project: 'ApiAuth\3BPACS.ApiAuth' e executar o comando Update-Database
 * Ao executar o projeto, verificar se os projetos 3BPACS.ApiAuth e 3BPACS.Interface estão configurador para serem executados juntos como startup
-
-### Database
-
-Este projeto está usando SQL Server, você pode usar uma instância que instalou em seu desktop.
-
 
 ### ApiAuth
 
 Esta API foi desenvolvida em .NET 7 com JWT. Para executar este projeto você pode usar VS Code ou VS 2022 community. [link](./3BPACS.ApiAuth)
 
 
-### Admin
+### ASP NET MVC
 
-Este é um projeto de administração, aqui você pode gerenciar seus dados como cadastro de pacientes, exames e etc.
-
-Login
-
-![Cut video](./images/login.png)
+Este é um projeto web desenvolvido com AspNet MVC, esse é o projeto onde tem toda a interface do usuário.
 
