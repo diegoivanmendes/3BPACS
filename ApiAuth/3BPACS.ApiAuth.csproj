@@ -33,4 +33,8 @@
     <ProjectReference Include="..\Domain\3BPACS.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Infrastructure\Migrations\" />
+  </ItemGroup>
+
 </Project>
