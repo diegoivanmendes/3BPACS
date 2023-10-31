@@ -10,17 +10,17 @@ public class LoginAppService
 
     static HttpClient client = new HttpClient();
 
-    public async Task<UsuarioAutenticadoDto> Autenticar(LoginViewModel examOrderViewModel)
+    public async Task<UsuarioAutenticadoDto> Autenticar(LoginViewModel loginViewModel)
     {
         try
         {
-            client.BaseAddress = new Uri("http://localhost:64195/");
+            client.BaseAddress = new Uri("http://localhost:52379/");
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(
                 new MediaTypeWithQualityHeaderValue("application/json"));
 
             HttpResponseMessage response = await client.PostAsJsonAsync(
-                    "api/products", examOrderViewModel);
+                    "login", loginViewModel);
             response.EnsureSuccessStatusCode();
 
             // Deserialize the updated product from the response body.

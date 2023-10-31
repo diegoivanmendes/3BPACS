@@ -1,10 +1,5 @@
-﻿using ApiAuth.Domain.Entities;
+﻿using _3BPACS.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ApiAuth.Infrastructure.Data
 {
@@ -17,5 +12,12 @@ namespace ApiAuth.Infrastructure.Data
 
         public DbSet<UsuarioEntity> Usuarios { get; set; }
 
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Seed();
+        }
     }
 }

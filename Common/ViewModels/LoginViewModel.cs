@@ -4,9 +4,9 @@ namespace _3BPACS.Common.ViewModels;
 
 public class LoginViewModel
 {
-    [Display(Name = "Username")]
-    public string Username { get; set; }
+    [Display(Name = "Usuario")]
+    public string Usuario { get; set; }
 
-    [Display(Name = "Password")]
-    public string Password { get; set; }
+    [Display(Name = "Senha")]
+    public string Senha { get; set; }
 }

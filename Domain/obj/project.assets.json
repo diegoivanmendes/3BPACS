@@ -139,21 +139,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Domain\\3BPACS.Domain.csproj",
+      "projectUniqueName": "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\3BPACS.Domain.csproj",
       "projectName": "3BPACS.Domain",
-      "projectPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Domain\\3BPACS.Domain.csproj",
+      "projectPath": "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\3BPACS.Domain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Domain\\obj\\",
+      "outputPath": "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -162,6 +158,7 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://pkgs.dev.azure.com/Tecnogroup/SISS/_packaging/SISSONLINE/nuget/v3/index.json": {}
       },
@@ -169,8 +166,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj": {
-              "projectPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj"
+            "D:\\fiap\\tech-challenge\\3BPACS\\Common\\3BPACS.Common.csproj": {
+              "projectPath": "D:\\fiap\\tech-challenge\\3BPACS\\Common\\3BPACS.Common.csproj"
             }
           }
         }
@@ -200,7 +197,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

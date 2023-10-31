@@ -1,6 +1,6 @@
 ﻿namespace ApiAuth.Domain.Entities
 {
-    public class UsuarioEntity
+    public class UsuarioEntityApi
     {
         public int Id { get; private set; }
         public string NomeUsuario { get; set; }

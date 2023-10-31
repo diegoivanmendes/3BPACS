@@ -21,7 +21,7 @@ namespace _3BPACS.ApiAuth.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("ApiAuth.Domain.Entities.UsuarioEntity", b =>
+            modelBuilder.Entity("_3BPACS.Domain.Entities.UsuarioEntity", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -30,14 +30,36 @@ namespace _3BPACS.ApiAuth.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("NomeUsuario")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Senha")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
                     b.ToTable("Usuarios");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            NomeUsuario = "Alisson",
+                            Senha = "123456"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            NomeUsuario = "Diego",
+                            Senha = "123456"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            NomeUsuario = "Vinicius",
+                            Senha = "123456"
+                        });
                 });
 #pragma warning restore 612, 618
         }

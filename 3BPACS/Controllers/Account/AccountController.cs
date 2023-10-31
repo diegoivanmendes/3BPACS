@@ -19,11 +19,21 @@ namespace _3BPACS.Controllers.Account
         }
 
         [HttpPost]
-        public IActionResult Login(LoginViewModel loginViewModel)
+        public async Task<IActionResult> Login(LoginViewModel loginViewModel)
         {
             var t = loginViewModel;
 
-            var usuarioAutenticadoDto = _loginAppService.Autenticar(loginViewModel);
+            var usuarioAutenticadoDto = await _loginAppService.Autenticar(loginViewModel);
+
+            // Definir o token como um cookie seguro e HttpOnly
+            var cookieOptions = new CookieOptions
+            {
+                HttpOnly = true,
+                Secure = true,
+                SameSite = SameSiteMode.None, // Ajuste conforme necessário
+                Expires = DateTime.UtcNow.AddHours(1) // Defina a duração do cookie conforme necessário
+            };
+            Response.Cookies.Append("AuthToken", usuarioAutenticadoDto.Token, cookieOptions);
 
             return RedirectToAction("Index", "Home");
         }
@@ -31,6 +41,13 @@ namespace _3BPACS.Controllers.Account
         public IActionResult Register()
         { 
             return View(); 
+        }
+
+        public IActionResult SignOut()
+        {
+            Response.Cookies.Delete("AuthToken");
+
+            return RedirectToAction("Index", "Home");
         }
     }
 }

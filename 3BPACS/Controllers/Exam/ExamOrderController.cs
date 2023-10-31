@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using _3BPACS.Application;
 using _3BPACS.Common.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 
 namespace _3BPACS.Controllers.Exame
 {
+    [Authorize]
     public class ExamOrderController : Controller
     {
 

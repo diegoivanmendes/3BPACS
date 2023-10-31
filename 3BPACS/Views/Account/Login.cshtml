@@ -65,24 +65,24 @@
                                 <div class="card-body">
 
                                     <div class="pt-4 pb-2">
-                                        <h5 class="card-title text-center pb-0 fs-4">Login to Your Account</h5>
-                                        <p class="text-center small">Enter your username & password to login</p>
+                                        <h5 class="card-title text-center pb-0 fs-4">Login para sua conta</h5>
+                                        <p class="text-center small">Informe seu usuário e senha para logar</p>
                                     </div>
 
                                     <form asp-action="Login" class="row g-3 needs-validation" novalidate>
 
                                         <div class="col-12">
-                                            <label asp-for="Username" for="yourUsername" class="form-label">Username</label>
+                                            <label asp-for="Usuario" for="yourUsername" class="form-label">Usuário</label>
                                             <div class="input-group has-validation">
-                                                <input asp-for="Username" type="text" name="username" class="form-control" id="yourUsername" required>
-                                                <div class="invalid-feedback">Please enter your username.</div>
+                                                <input asp-for="Usuario" type="text" name="usuario" class="form-control" id="yourUsername" required>
+                                                <div class="invalid-feedback">Informe o usuário.</div>
                                             </div>
                                         </div>
 
                                         <div class="col-12">
-                                            <label asp-for="Password" for="yourPassword" class="form-label">Password</label>
-                                            <input asp-for="Password" type="password" name="password" class="form-control" id="yourPassword" required>
-                                            <div class="invalid-feedback">Please enter your password!</div>
+                                            <label asp-for="Senha" for="yourPassword" class="form-label">Senha</label>
+                                            <input asp-for="Senha" type="password" name="senha" class="form-control" id="yourPassword" required>
+                                            <div class="invalid-feedback">Informe a senha!</div>
                                         </div>
 
                                         @* <div class="col-12">
@@ -97,6 +97,12 @@
                                         @* <div class="col-12">
                                             <p class="small mb-0">Don't have account? <a href="register">Create an account</a></p>
                                         </div> *@
+                                        <div class="col-12">
+                                            <p class="text-center small">Exemplo de usuários</p>
+                                            <p class="small mb-0">Usuario: Alisson, Senha: 123456</p>
+                                            <p class="small mb-0">Usuario: Diego, Senha: 123456</p>
+                                            <p class="small mb-0">Usuario: Vinicius, Senha: 123456</p>
+                                        </div>
                                     </form>
 
                                 </div>

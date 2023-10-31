@@ -10,7 +10,14 @@
         public UsuarioEntity(string nomeUsuario, string senha) { 
             NomeUsuario = nomeUsuario;
             Senha = senha;  
-        }    
+        }
+
+        public UsuarioEntity(int id, string nomeUsuario, string senha)
+        {
+            Id = id;
+            NomeUsuario = nomeUsuario;
+            Senha = senha;
+        }
     }
 
 }
