@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "lbfu8CZVoxUiQzYWqhjTrAFt6UN4QUXNbIvDjGnHoGzynu3SPBeKjyA9xrSb2f29Zok4wHk3Wt5qFoQv7+bfmw==",
   "success": true,
   "projectFilePath": "D:\\fiap\\tech-challenge\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj",
+=======
+  "dgSpecHash": "Jtr9mjKTCNzSty8vODHF1dL4i2LKe0oeJ/GgII3EYjLTvasLmPeCOaClLF9F0ZgkIYeeaCdTu03z3ycHe9Y95A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\infrastructure\\3BPACS.Infrastructure.csproj",
+>>>>>>> 69ef2b176a1c0468e82f133085b3a58dd4a1f9ca
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

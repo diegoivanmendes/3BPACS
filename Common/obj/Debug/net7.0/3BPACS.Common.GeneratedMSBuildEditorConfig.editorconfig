@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = 3BPACS.Common
+<<<<<<< HEAD
 build_property.ProjectDir = D:\fiap\tech-challenge\3BPACS\Common\
+=======
+build_property.ProjectDir = C:\Users\diego.oliveira\source\repos\3bpacs\Common\
+>>>>>>> 69ef2b176a1c0468e82f133085b3a58dd4a1f9ca

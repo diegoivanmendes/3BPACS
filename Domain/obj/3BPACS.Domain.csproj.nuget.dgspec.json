@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\3BPACS.Domain.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\fiap\\tech-challenge\\3BPACS\\Common\\3BPACS.Common.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "D:\\fiap\\tech-challenge\\3BPACS\\Common\\obj\\",
+=======
+    "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\3BPACS.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj",
+        "projectName": "3BPACS.Common",
+        "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj",
+        "packagesPath": "C:\\Users\\diego.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\obj\\",
+>>>>>>> 69ef2b176a1c0468e82f133085b3a58dd4a1f9ca
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,6 +80,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\3BPACS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -74,6 +89,16 @@
         "projectPath": "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\3BPACS.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\obj\\",
+=======
+    "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\3BPACS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\3BPACS.Domain.csproj",
+        "projectName": "3BPACS.Domain",
+        "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\3BPACS.Domain.csproj",
+        "packagesPath": "C:\\Users\\diego.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Domain\\obj\\",
+>>>>>>> 69ef2b176a1c0468e82f133085b3a58dd4a1f9ca
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,8 +116,13 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\fiap\\tech-challenge\\3BPACS\\Common\\3BPACS.Common.csproj": {
                 "projectPath": "D:\\fiap\\tech-challenge\\3BPACS\\Common\\3BPACS.Common.csproj"
+=======
+              "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj": {
+                "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj"
+>>>>>>> 69ef2b176a1c0468e82f133085b3a58dd4a1f9ca
               }
             }
           }
