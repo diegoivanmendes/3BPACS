@@ -1,29 +1,3 @@
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.deps.json
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.dll
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.pdb
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.csproj.AssemblyReference.cache
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.AssemblyInfoInputs.cache
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.AssemblyInfo.cs
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.csproj.CoreCompileInputs.cache
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.dll
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\refint\3BPACS.Common.dll
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.pdb
-C:\Users\diego.oliveira\source\repos\3BPACS\Common\obj\Debug\net7.0\ref\3BPACS.Common.dll
-<<<<<<< HEAD
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.deps.json
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.dll
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.pdb
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.csproj.AssemblyReference.cache
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.GeneratedMSBuildEditorConfig.editorconfig
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.AssemblyInfoInputs.cache
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.AssemblyInfo.cs
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.csproj.CoreCompileInputs.cache
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.dll
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\obj\Debug\net7.0\refint\3BPACS.Common.dll
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.pdb
-D:\PosTech_FIAP\Projetos\Fase1_TechChallenge\3BPACS\Common\obj\Debug\net7.0\ref\3BPACS.Common.dll
-=======
 D:\fiap\tech-challenge\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.deps.json
 D:\fiap\tech-challenge\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.dll
 D:\fiap\tech-challenge\3BPACS\Common\bin\Debug\net7.0\3BPACS.Common.pdb
@@ -36,4 +10,3 @@ D:\fiap\tech-challenge\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.dll
 D:\fiap\tech-challenge\3BPACS\Common\obj\Debug\net7.0\refint\3BPACS.Common.dll
 D:\fiap\tech-challenge\3BPACS\Common\obj\Debug\net7.0\3BPACS.Common.pdb
 D:\fiap\tech-challenge\3BPACS\Common\obj\Debug\net7.0\ref\3BPACS.Common.dll
->>>>>>> 3d479ee2208395352e4a8be61f0a94fdcb5cf639
