@@ -10,7 +10,7 @@ Um sistema PACS (Picture Archiving and Communication System) é uma tecnologia u
 
 
 ## Repositories
-* API Auth [link]((https://github.com/diegoivanmendes/3BPACS/tree/main/ApiAuth))
+* API Auth [link](https://github.com/diegoivanmendes/3BPACS/tree/main/ApiAuth)
 * ASP NET MVC [link](https://github.com/diegoivanmendes/3BPACS/tree/main/3BPACS)
 
 
