@@ -158,40 +158,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diego.oliveira\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Application\\3BPACS.Application.csproj",
+      "projectUniqueName": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Application\\3BPACS.Application.csproj",
       "projectName": "3BPACS.Application",
-      "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Application\\3BPACS.Application.csproj",
-      "packagesPath": "C:\\Users\\diego.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Application\\obj\\",
+      "projectPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Application\\3BPACS.Application.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\diego.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/CmL8i2ZnvizloJBm84ey7jwkb9TH3ZIaNu6VkkFcrFqslBhxqQ/api": {},
         "https://pkgs.dev.azure.com/Tecnogroup/SISS/_packaging/SISSONLINE/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Domain\\3BPACS.Domain.csproj": {
-              "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3BPACS\\Domain\\3BPACS.Domain.csproj"
+            "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Domain\\3BPACS.Domain.csproj": {
+              "projectPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Domain\\3BPACS.Domain.csproj"
             }
           }
         }
@@ -227,7 +225,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NZs6DPc2/5t6oUKla+BKpfzliW2klm5dSbKt8fmFZUY=",
+  "Source": "3BPACS.ApiAuth",
+  "BasePath": "_content/3BPACS.ApiAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj": {}
+    "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj": {
+    "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj",
+        "projectUniqueName": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj",
         "projectName": "3BPACS.Common",
-        "projectPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj",
-        "packagesPath": "C:\\Users\\diego.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\obj\\",
+        "projectPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\diego.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/CmL8i2ZnvizloJBm84ey7jwkb9TH3ZIaNu6VkkFcrFqslBhxqQ/api": {},
           "https://pkgs.dev.azure.com/Tecnogroup/SISS/_packaging/SISSONLINE/nuget/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

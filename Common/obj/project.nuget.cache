@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "a6OJa5VKNYpykw+i/zgaPkMWWdk01gVhFh2b3cKH3Eu4ANxSpv1OamZuMGIGYWcDayk9efpupgM4qZWkWsMnng==",
+  "dgSpecHash": "YurNqzl3IRoD+ambRPDb0sRKiGwUe8T+5eGxBSF4wuzGmFsE1bUTlOLXljMptlYnXNX4jRv95ewo8clqlwMrbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego.oliveira\\source\\repos\\3bpacs\\Common\\3BPACS.Common.csproj",
+  "projectFilePath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\diego.oliveira\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\diego.oliveira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
