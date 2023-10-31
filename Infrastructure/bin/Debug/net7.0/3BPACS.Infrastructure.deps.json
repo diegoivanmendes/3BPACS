@@ -10,6 +10,7 @@
         "dependencies": {
           "3BPACS.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.13",
+          "Microsoft.EntityFrameworkCore.Design": "7.0.13",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.13",
           "Microsoft.Extensions.Configuration": "7.0.0",
