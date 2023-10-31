@@ -10,8 +10,8 @@ Um sistema PACS (Picture Archiving and Communication System) é uma tecnologia u
 
 
 ## Repositories
-* API Auth [link](./3BPACS.ApiAuth)
-* ASP NET MVC [link](./3BPACS.Interface)
+* API Auth [link]((https://github.com/diegoivanmendes/3BPACS/tree/main/ApiAuth))
+* ASP NET MVC [link](https://github.com/diegoivanmendes/3BPACS/tree/main/3BPACS)
 
 
 ## Development 
@@ -25,7 +25,7 @@ Para executar esses projetos você precisa seguir as etapas abaixo:
 
 ### ApiAuth
 
-Esta API foi desenvolvida em .NET 7 com JWT. Para executar este projeto você pode usar VS Code ou VS 2022 community. [link](./3BPACS.ApiAuth)
+Esta API foi desenvolvida em .NET 7 com JWT. Para executar este projeto você pode usar VS Code ou VS 2022 community.
 
 
 ### ASP NET MVC
