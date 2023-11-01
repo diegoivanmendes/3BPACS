@@ -19,9 +19,12 @@ Um sistema PACS (Picture Archiving and Communication System) é uma tecnologia u
 Para executar esses projetos você precisa seguir as etapas abaixo:
 
 * Abrir a solution 3BPACS.sln com o visual studio 2022
+* Configurar os os projetos 3BPACS.ApiAuth e 3BPACS.Interface para serem executados juntos como startup
+* Com o botão direito do mouse na solution, ir na opção Configure Startup Projects... Selecionar a opção Multiple startup projects
+* Alterar o 3BPACS.ApiAuth e 3BPACS.Interface para start
 * Abri Package Manager Console e deixar como Defult project: 'Interface\3BPACS.Interface' e executar o comando Update-Database
 * Ainda no Package Manager Console e deixar como Defult project: 'ApiAuth\3BPACS.ApiAuth' e executar o comando Update-Database
-* Ao executar o projeto, verificar se os projetos 3BPACS.ApiAuth e 3BPACS.Interface estão configurador para serem executados juntos como startup
+* Executar o projeto pressionando o F5
 
 ### ApiAuth
 
