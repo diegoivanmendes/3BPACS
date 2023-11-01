@@ -8,12 +8,16 @@ namespace _3BPACS.Application;
 public class LoginAppService
 {
 
-    static HttpClient client = new HttpClient();
-
+    /// <summary>
+    /// Método resposável por autenticar o usuário da aplicação.
+    /// </summary>
+    /// <param name="loginViewModel"></param>
+    /// <returns></returns>
     public async Task<UsuarioAutenticadoDto> Autenticar(LoginViewModel loginViewModel)
     {
         try
         {
+            HttpClient client = new HttpClient();
             client.BaseAddress = new Uri("http://localhost:52379/");
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(

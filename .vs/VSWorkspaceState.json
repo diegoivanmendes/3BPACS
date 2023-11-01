@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\3BPACS",
-    "\\3BPACS\\Views",
-    "\\3BPACS\\Views\\ExamOrder",
     "\\3BPACS\\wwwroot",
     "\\3BPACS\\wwwroot\\css"
   ],
-  "SelectedNode": "\\3BPACS\\Views\\ExamOrder\\Create.cshtml",
+  "SelectedNode": "\\Domain",
   "PreviewInSolutionExplorer": false
 }

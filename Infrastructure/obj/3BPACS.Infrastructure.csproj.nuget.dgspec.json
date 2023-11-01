@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fiap\\tech-challenge\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj": {}
+    "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\fiap\\tech-challenge\\3BPACS\\Common\\3BPACS.Common.csproj": {
+    "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fiap\\tech-challenge\\3BPACS\\Common\\3BPACS.Common.csproj",
+        "projectUniqueName": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj",
         "projectName": "3BPACS.Common",
-        "projectPath": "D:\\fiap\\tech-challenge\\3BPACS\\Common\\3BPACS.Common.csproj",
+        "projectPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\fiap\\tech-challenge\\3BPACS\\Common\\obj\\",
+        "outputPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -21,7 +24,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/Tecnogroup/SISS/_packaging/SISSONLINE/nuget/v3/index.json": {}
         },
@@ -62,19 +64,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\3BPACS.Domain.csproj": {
+    "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Domain\\3BPACS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\3BPACS.Domain.csproj",
+        "projectUniqueName": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Domain\\3BPACS.Domain.csproj",
         "projectName": "3BPACS.Domain",
-        "projectPath": "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\3BPACS.Domain.csproj",
+        "projectPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Domain\\3BPACS.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\obj\\",
+        "outputPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -83,7 +88,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/Tecnogroup/SISS/_packaging/SISSONLINE/nuget/v3/index.json": {}
         },
@@ -91,8 +95,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\fiap\\tech-challenge\\3BPACS\\Common\\3BPACS.Common.csproj": {
-                "projectPath": "D:\\fiap\\tech-challenge\\3BPACS\\Common\\3BPACS.Common.csproj"
+              "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj": {
+                "projectPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Common\\3BPACS.Common.csproj"
               }
             }
           }
@@ -122,19 +126,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\fiap\\tech-challenge\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj": {
+    "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fiap\\tech-challenge\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj",
+        "projectUniqueName": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj",
         "projectName": "3BPACS.Infrastructure",
-        "projectPath": "D:\\fiap\\tech-challenge\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj",
+        "projectPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Infrastructure\\3BPACS.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\fiap\\tech-challenge\\3BPACS\\Infrastructure\\obj\\",
+        "outputPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -143,7 +150,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/Tecnogroup/SISS/_packaging/SISSONLINE/nuget/v3/index.json": {}
         },
@@ -151,8 +157,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\3BPACS.Domain.csproj": {
-                "projectPath": "D:\\fiap\\tech-challenge\\3BPACS\\Domain\\3BPACS.Domain.csproj"
+              "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Domain\\3BPACS.Domain.csproj": {
+                "projectPath": "D:\\PosTech_FIAP\\Projetos\\Fase1_TechChallenge\\3BPACS\\Domain\\3BPACS.Domain.csproj"
               }
             }
           }
@@ -210,7 +216,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
